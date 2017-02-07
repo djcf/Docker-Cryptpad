@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:alpine
 MAINTAINER Arno0x0x - https://twitter.com/Arno0x0x
 
 ENV SOURCE_URL="https://github.com/xwiki-labs/cryptpad"
