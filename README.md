@@ -1,4 +1,6 @@
 ### CryptPad is the zero knowledge realtime collaborative editor.
+
+This repo has been forked to use the official Node:alpine container image.
   
 To start the image in background (daemon mode):
 
